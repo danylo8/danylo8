@@ -32,18 +32,6 @@
 <br>
   
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#68461](https://github.com/vercel/next.js/pull/68461#issuecomment-2266284188) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266031546) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
