@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=4000&pause=250&color=2148B8&center=true&vCenter=true&width=1300&height=140&lines=Hello;My+name+is+Danylo" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="120" height="20">
+  <img src="https://komarev.com/ghpvc/?username=danylo8&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="120" height="20">
 </p>
 
 ### About me:
