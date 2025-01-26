@@ -32,14 +32,16 @@
   &nbsp;<div align="center">
   [![Spotify](https://novatorem-up1y-cloudydans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/funny2244)
 </div>
-
+  
+  &nbsp;<div align="left">
   <img align="left" alt="Danylo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danylo8&show_icons=true&theme=radical" />
 
-
-<td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danylo8&hide=html&hide_border=true&layout=compact&langs_count=8&theme=radical" align="right" alt="Top Languages">  
+  &nbsp;<div align="right">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danylo8&hide=html&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
     </td>
-    
+   
 </details>
 
 [youtube]: https://youtube.com/dannylol4028
