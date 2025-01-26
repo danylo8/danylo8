@@ -32,7 +32,7 @@
 
   <img align="left" alt="Danylo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danylo8&show_icons=true&theme=radical" />
 
-  &nbsp;<div align="center">
+  &nbsp;<div align="right">
   [![Spotify](https://novatorem-up1y-cloudydans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/funny2244)
 </div>
 </details>
