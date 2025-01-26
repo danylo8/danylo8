@@ -1,27 +1,28 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=4000&pause=250&color=2148B8&center=true&vCenter=true&width=1300&height=140&lines=Hello;My+name+is+Danylo" alt="Typing SVG" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danylo8&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="150" height="20">
+</p>
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 - 🥅 2025 goal: Keep Coding
 - ⚡ Fun fact: I like to watch anime and read manga
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danylo8&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
+
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/@dannylol4028" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/dannnny21/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+  
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -81,7 +82,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Danylo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danylo8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Danylo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danylo8&show_icons=true&theme=radical" />
 
 </details>
 
