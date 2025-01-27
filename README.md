@@ -5,7 +5,7 @@
 
 ### About me:
 - I'm a high school student who is curious about coding
-- I like to watch anime and read manga
+- I like to read and build legos
 
 
 ### Social Media:
