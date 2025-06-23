@@ -46,3 +46,7 @@
 
 [youtube]: https://youtube.com/dannylol4028
 [instagram]: https://instagram.com/dannnny21
+---
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=danylo8&theme=darkhub"\>
+</p>
